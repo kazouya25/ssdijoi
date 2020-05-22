@@ -1,0 +1,26 @@
+{
+  "name": "RectBOT-ByKahrbaa",
+  "description": "(ByKahrbaa)",
+  "version": "1.0.0",
+  "main": "kreact.js",
+  "scripts": {
+    "start": "node kreact.js"
+  },
+  "author": "Kahrbaa",
+  "license": "MIT",
+  "dependencies": {
+    "canvas": "1.6.10",
+    "dateformat": "3.0.3",
+    "discord.js": "11.1.0",
+    "fs": "0.0.1-security",
+    "moment": "2.22.1",
+    "moment-duration-format": "^2.2.2",
+    "ms": "2.1.1",
+    "node-opus": "0.2.7",
+    "request": "^2.81.0",
+    "short-number": "1.0.6",
+    "express": "^4.16.4",
+    "http": "^0.0.0",
+    "node-cmd": "^3.0.0"
+  }
+}
